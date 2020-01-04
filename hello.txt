@@ -1,3 +1,1 @@
-HI, TATA!
-HI, Jura!
-HI, a!
+Новая строка
