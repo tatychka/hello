@@ -1,1 +1,4 @@
-А вот и я!
+<?php
+session_start();
+echo "А вот и я!!!";
+
