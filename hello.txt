@@ -2,3 +2,4 @@
 яяядругая строка
 
 Hello, git! Десятый урок.
+Hello, git rebase!
