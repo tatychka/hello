@@ -3,3 +3,6 @@
 
 Hello, git! Десятый урок.
 Hello, git rebase!
+
+Hello, world!
+Adding new line feature Добавленна новая ветка
